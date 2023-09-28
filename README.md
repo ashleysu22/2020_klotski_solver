@@ -1,1 +1,1 @@
-# 2020_klotski_solver
+# 2020_klostski_solver
